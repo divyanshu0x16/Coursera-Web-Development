@@ -1,0 +1,46 @@
+.navbar-custom {
+    background-color: grey;
+    padding-bottom: 0px !important;
+}
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-text {
+    color: black !important;
+    font-size: 1.8em !important;
+    margin-left: 16px !important;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: black;
+    background-image: url("data:image/svg+xml;charset=utf8,<svg viewBox='-6.5 -1 45 33' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(0,0,0, 1.0)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/></svg>");
+    margin-right: 16px !important;
+    margin-bottom: 8px !important;
+}
+
+.custom-item{
+    text-align: center;
+    font-size: 1.5em;
+    outline: 2px solid #000;
+    background-color: white;
+}
+
+.navbar-custom .container-fluid{
+    padding: 0px !important;
+}
+
+.heading {
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+    text-align: center;
+}
+
+.content{
+    background-color: grey;
+    padding: 0.5em 1em 1em 1em;
+}
+
+.sectionHeading{
+    padding-top: 0.5em !important;
+    background-color: grey;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
